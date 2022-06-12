@@ -48,7 +48,7 @@
 
 ![slicer](https://www.linkpicture.com/q/slicer.png) damage 25
 
-![gates](https://www.linkpicture.com/q/gates_1.png) damage - 40 + respawn bihind the current gate
+![gates](https://www.linkpicture.com/q/gates_1.png) damage - 40 + respawn behind the current gate +
     you will get damage only when you are under the gates
 
     gameplay video link 
