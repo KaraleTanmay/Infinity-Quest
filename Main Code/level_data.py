@@ -1,0 +1,18 @@
+main_level = {"temple tiles": "../Level/main level/map_temple tiles.csv",
+              "constrains": "../Level/main level/map_constrains.csv",
+              "cave": "../Level/main level/map_cave.csv",
+              "controller": "../Level/main level/map_controller.csv",
+              "end door": "../Level/main level/map_end door.csv",
+              "gates": "../Level/main level/map_gates.csv",
+              "gun": "../Level/main level/map_gun.csv",
+              "lift": "../Level/main level/map_lift.csv",
+              "liquid": "../Level/main level/map_liquid.csv",
+              "pipe": "../Level/main level/map_pipe.csv",
+              "rocks": "../Level/main level/map_rocks.csv",
+              "shooter": "../Level/main level/map_shooter.csv",
+              "slicer": "../Level/main level/map_slicer.csv",
+              "start": "../Level/main level/map_start.csv",
+              "stones": "../Level/main level/map_stones.csv",
+              "arrow": "../Level/main level/map_arrow.csv",
+              "arrow constrains": "../Level/main level/map_arrow constrains.csv"
+              }
