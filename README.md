@@ -7,15 +7,13 @@
      door.
 
 
-
 ## how to run the game
 
-    The game is is in dist folder inside the main code
-    folder. Run the Infinity Quest game as administrator
-    In case windows defender interrupt allow access to the game
     
-    For accessing the game code open '.py' files in main
+    The code of the game is in the Main code folder.
+    For accessing the game code open all '.py' files in main
     code folder using any code editor software
+    
 ## HOW TO PLAY ?
 
     A - To move left
@@ -50,7 +48,8 @@
 
 ![slicer](https://www.linkpicture.com/q/slicer.png) damage 25
 
-![gates](https://www.linkpicture.com/q/gates_1.png) damage - 100
+![gates](https://www.linkpicture.com/q/gates_1.png) damage - 40 + respawn bihind the current gate
+    you will get damage only when you are under the gates
 
     gameplay video link 
     https://drive.google.com/file/d/1DfuDApK6U44XaKScgHV2pi0dd_GKk03C/view?usp=sharing
